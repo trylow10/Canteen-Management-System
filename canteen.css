@@ -1,0 +1,41 @@
+    body{
+            font-family:latha;
+          color: white;
+            background: linear-gradient( rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url(bg-1.jpg) no-repeat;
+            background-size: cover;
+        }
+        .box{
+             position: absolute;
+             top:140px;
+             right: 100px;
+            width: 900px;
+            float: right;
+            border: 1px solid none;
+        }
+        .box ul li{
+            width: 120px;
+            float: left;
+            margin: 10px auto;
+            text-align: center; 
+
+        }
+        .box ul li a{ text-decoration: none;
+            color: darkgrey;
+        }
+        .box ul li:hover{ background-color:green; }
+           .box ul li a: hover{color: white;
+            }
+  h1{
+    padding: 30;
+    margin: 30;
+    text-align:center;
+    color: white;
+}
+p{
+    position: absolute;
+    top: 280px;
+    right: 350px;
+    padding: 5px;
+    
+
+}

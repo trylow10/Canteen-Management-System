@@ -1,0 +1,57 @@
+body {
+	background:url('tab-2.jpg');
+	background-size: cover;
+	font-family: bookman old style;
+
+}
+
+.edit{
+	position: absolute;
+	margin:auto;
+	left: 480px;
+	top: 180px;
+	border: 1px solid;
+	height: 250px;
+	width: 400px;
+	background-color: black;
+	opacity: 0.8;
+	border-radius: 20px;
+
+
+}
+input[type=text],input[type=file],input[type=price]{
+	width: 250px;
+	border-radius: 10px;
+	height: 30px;
+	border: none;
+
+
+}
+input[type=submit]{
+	width: 100px;
+	border-radius: 10px;
+	position: absolute;
+	top: 180px;
+	left: 140px;
+
+}
+.cont{
+	color: white;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.go{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	padding: 5px;
+	border-radius: 10px;
+	background-color: black;
+	
+
+}
+.go a{
+	text-decoration: none;
+	color: white;
+	font-family: bookman old style;
+}

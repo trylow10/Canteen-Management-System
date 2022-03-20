@@ -1,0 +1,46 @@
+body {
+	background:url('u-1.jpg');
+	background-size:100%; 
+	font-family: Comic Sans MS;
+}
+h1{
+position: absolute;
+top: 10px;
+left: 350px;
+	font-family: Comic Sans MS;
+	color:black;
+}
+
+table{
+	position: absolute;
+	color: black;
+	top:120px;
+	width: 900px;
+	text-align: center;
+	padding: 0px;
+	margin: 5px;
+}
+.search{
+	position: absolute;
+	top: 80px;
+	right: 325px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+
+.go{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	padding: 5px;
+	border-radius: 10px;
+	background-color: black;
+	
+
+}
+.go a{
+	text-decoration: none;
+	color: white;
+	font-family: bookman old style;
+}

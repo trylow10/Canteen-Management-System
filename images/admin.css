@@ -1,0 +1,86 @@
+body {
+	background:url('bac.jpeg');
+	background-size: 100%;
+	font-family: bookman old style;
+
+}
+h1{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color:red;
+}
+h2{
+	position: absolute;
+	top: 140px;
+	font-size: 30px;
+	font-family: Comic Sans MS;
+}
+input[type=submit]{
+	color: white;
+	border: none;
+	background-color: red;
+	width: 80px;
+	height: 30px;
+	border-radius: 20px;
+}
+.BCA{
+	position: absolute;
+	left: 60px;
+	top: 240px;
+	/*width: 70px;
+	height: 20px;*/
+	margin: 5px;
+	background-color: gray;
+	text-align: center;
+	border-radius: 20px;
+	
+}
+.BIM{
+	position: absolute;
+	left: 60px;
+	top: 280px;
+	/*width: 70px;
+	height: 20px;*/
+	margin: 5px;
+	background-color: gray;
+	text-align: center;
+	border-radius: 20px;
+
+}
+.CSIT{
+	position: absolute;
+	left: 60px;
+	top: 320px;
+	/*width: 70px;
+	height: 20px;*/
+	margin: 5px;
+	background-color: gray;
+	text-align: center;
+	border-radius: 20px;
+}
+.log{
+	width: 70px;
+	position: absolute;
+	top: 50px;
+	right: 60px;
+	background-color: red;
+	text-align: center;
+	border-radius: 20px;
+	padding: 10px;
+}
+.log a{
+	text-decoration: none;
+	color: white;
+}
+.container{
+	position: absolute;
+	top: 220px;
+	border: 1px solid;
+	height: 200px;
+	width: 200px;
+	background-color: black;
+	opacity: 0.8;
+	border-radius: 20px;
+
+
+}

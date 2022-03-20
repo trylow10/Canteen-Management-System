@@ -1,0 +1,41 @@
+body {
+	background:url('tab.jpg');
+	background-size:100%; 
+	font-family: Comic Sans MS;
+}
+h1{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color:black;
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+#con{
+	text-decoration: none;
+	color: green;
+}
+
+table{
+	color: black;
+	width: 900px;
+	text-align: center;
+	padding: 0px;
+	margin: 5px;
+}
+.go{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	padding: 5px;
+	border-radius: 10px;
+	background-color: black;
+	
+
+}
+.go a{
+	text-decoration: none;
+	color: white;
+	font-family: bookman old style;
+}

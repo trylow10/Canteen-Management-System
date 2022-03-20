@@ -1,0 +1,118 @@
+body {
+	background:url('pic-4.jpg');
+	background-size:cover;
+	font-family: bookman old style;
+
+}
+h1{
+	text-align: center;
+	font-family: Comic Sans MS;
+	color:red;
+}
+h2{
+	position: absolute;
+	top: 140px;
+	font-size: 30px;
+	font-family: Comic Sans MS;
+}
+a{
+	text-decoration: none;
+	text-align:center;
+	padding: 5px;
+	color: white;
+	border: none;
+	background-color: red;
+	width: 150px;
+	height: 40px;
+	border-radius: 20px;
+}
+.view{
+	position: absolute;
+	left: 50px;
+	top: 80px;
+	/*width: 70px;
+	height: 20px;*/
+	margin: 5px;
+	background-color: gray;
+	text-align: center;
+	border-radius: 20px;
+	
+}
+.viewfeeds{
+	position: absolute;
+	left: 50px;
+	top: 160px;
+	/*width: 70px;
+	height: 20px;*/
+	margin: 5px;
+	background-color: gray;
+	text-align: center;
+	border-radius: 20px;
+	
+}
+
+.addmenu{
+	position: absolute;
+	left: 50px;
+	top: 120px;
+	/*width: 70px;
+	height: 20px;*/
+	margin: 5px;
+	background-color: gray;
+	text-align: center;
+	border-radius: 20px;
+}
+.menulist{
+	position: absolute;
+	left: 50px;
+	top: 40px;
+	/*width: 70px;
+	height: 20px;*/
+	margin: 5px;
+	background-color: gray;
+	text-align: center;
+	border-radius: 20px;
+}
+.user{
+		position: absolute;
+	left: 40px;
+	top: 200px;
+	/*width: 70px;
+	height: 20px;*/
+	margin: 5px;
+	background-color: gray;
+	text-align: center;
+	border-radius: 20px;
+	
+
+}
+
+.log{
+	width: 70px;
+	position: absolute;
+	top: 50px;
+	right: 60px;
+	background-color: red;
+	text-align: center;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.log a{
+	text-decoration: none;
+	color: white;
+}
+.container{
+	position: absolute;
+	margin:auto;
+	left: 510px;
+	top: 180px;
+	border: 1px solid;
+	height: 260px;
+	width: 250px;
+	background-color: black;
+	opacity: 0.8;
+	border-radius: 20px;
+
+
+}
